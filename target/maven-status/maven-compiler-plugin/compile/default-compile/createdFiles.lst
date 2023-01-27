@@ -1,1 +1,9 @@
-com\facturas\prueba\PruebaApplication.class
+com\facturas\prueba\dto\ContentResponseDTO.class
+com\facturas\prueba\dto\product\GenericRef.class
+com\facturas\prueba\dto\PurchaseOrderLineRetDTO.class
+com\facturas\prueba\dto\product\ProductInventoryDTO.class
+com\facturas\prueba\dto\VendorAddress.class
+com\facturas\prueba\dto\VendorDTO.class
+com\facturas\prueba\dto\LinkedTxnDTO.class
+com\facturas\prueba\dto\product\SalesOrPurchase.class
+com\facturas\prueba\dto\PurchaseOrderDTO.class
