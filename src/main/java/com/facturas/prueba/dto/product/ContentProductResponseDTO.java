@@ -1,6 +1,5 @@
 package com.facturas.prueba.dto.product;
 
-import com.facturas.prueba.dto.PurchaseOrderDTO;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlCData;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;

@@ -1,4 +1,4 @@
-package com.facturas.prueba.dto;
+package com.facturas.prueba.dto.purchase;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
